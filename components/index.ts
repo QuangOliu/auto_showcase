@@ -4,4 +4,16 @@ import Footer from './Footer'
 import SearchBar from './SearchBar'
 import SearchManufacturer from './SearchManufacturer'
 import SearchModel from './SearchModel'
-export { NavBar, Hero, Footer, SearchBar, SearchManufacturer, SearchModel }
+import CarCard from './CarCard'
+import CarDetails from './CarDetails'
+
+export {
+  NavBar,
+  Hero,
+  Footer,
+  SearchBar,
+  SearchManufacturer,
+  SearchModel,
+  CarCard,
+  CarDetails,
+}

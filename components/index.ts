@@ -5,6 +5,7 @@ import SearchBar from './SearchBar'
 import SearchManufacturer from './SearchManufacturer'
 import CarCard from './CarCard'
 import CarDetails from './CarDetails'
+import CustomFilter from './CustomFilter'
 
 export {
   NavBar,
@@ -14,4 +15,5 @@ export {
   SearchManufacturer,
   CarCard,
   CarDetails,
+  CustomFilter
 }
